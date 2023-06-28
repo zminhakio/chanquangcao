@@ -17,7 +17,7 @@
 			<key>PayloadIdentifier</key>
 			<string>io.nextdns.a7cf95.profile.dnsSettings.managed</string>
 			<key>PayloadOrganization</key>
-			<string>Minhakio</string>
+			<string>minhakio</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
@@ -38,7 +38,7 @@
 			<key>PayloadIdentifier</key>
 			<string>io.nextdns.881bd9.profile.dnsSettings.managed</string>
 			<key>PayloadOrganization</key>
-			<string>Minhakio</string>
+			<string>minhakio</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
@@ -48,13 +48,13 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>NextDNS Editor By Minhakio 🇻🇳
+	<string>NextDNS Editor By minhakio 🇻🇳
 
 - Sửa lại Cấu Hình DNS
 - Chặn Thu Hồi - Không Chặn Qc
 - Chặn Thu Hồi - Có Chặn Qc
 
-+ Lưu ý Khi dùng DNS:
+- Lưu ý Khi dùng DNS
 - Không dùng Vpn ❎
 - Không tắt Nguồn IPhone ❎</string>
 	<key>PayloadDisplayName</key>
